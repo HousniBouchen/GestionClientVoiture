@@ -1,0 +1,5 @@
+package com.example.car.models;
+
+public class CarResponse {
+
+}

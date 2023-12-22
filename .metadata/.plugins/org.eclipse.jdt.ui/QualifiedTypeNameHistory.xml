@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Repository"/>
+    <fullyQualifiedTypeName name="com.example.client.services.ClientService"/>
+    <fullyQualifiedTypeName name="org.springframework.boot.CommandLineRunner"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Bean"/>
+    <fullyQualifiedTypeName name="com.example.client.repositories.ClientRepository"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.Entity"/>
+    <fullyQualifiedTypeName name="org.springframework.http.client.SimpleClientHttpRequestFactory"/>
+    <fullyQualifiedTypeName name="com.example.car.entities.Car"/>
+    <fullyQualifiedTypeName name="com.example.client.entities.Client"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="com.example.car.repositories.CarRepository"/>
+    <fullyQualifiedTypeName name="com.example.car.models.CarResponse"/>
+    <fullyQualifiedTypeName name="org.springframework.web.client.RestTemplate"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+    <fullyQualifiedTypeName name="org.jvnet.hk2.annotations.Service"/>
+    <fullyQualifiedTypeName name="com.example.car.services.CarService"/>
+</qualifiedTypeNameHistroy>
